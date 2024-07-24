@@ -1,0 +1,7 @@
+Flask
+matplotlib
+seaborn
+pandas
+requests
+mlflow
+
